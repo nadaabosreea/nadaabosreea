@@ -1,4 +1,4 @@
-- 👋 Hi, I’m nada essam
+- 👋 Hi, I’m nada
 - 👀 I’m interested in data science, machine learning and really passonate about building suff using deep learning
 - 🌱 I’m currently working as a machine learning engineer 
 - 💞️ I’m looking to collaborate on any cool projects 
