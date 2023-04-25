@@ -1,6 +1,5 @@
 - 👋 Hi, I’m nada
-- 👀 I’m interested in data science, machine learning and really passionate about building suff using deep learning
-- 🌱 I’m a machine learning engineer 
+- 👀 I’m a Machine Learning Engineer who is really passionate about building suff using ML and DL
 - 💞️ I’m looking to collaborate on any cool projects 
 - 📫 you can reach me here anytime or on linkedin www.linkedin.com/in/nada-abosreea
 
